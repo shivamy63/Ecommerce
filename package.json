@@ -14,10 +14,7 @@
     "seed:db": "node server/utils/seed.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mohamedsamara/mern-ecommerce.git"
-  },
+  
   "keywords": [
     "node",
     "express",
@@ -27,8 +24,8 @@
     "redux-thunk",
     "webpack"
   ],
-  "author": "Mohamed Samara (https://github.com/mohamedsamara)",
-  "license": "MIT",
+  "author": "Shivam",
+  "license": "",
   "bugs": {
     "url": "https://github.com/mohamedsamara/mern-ecommerce/issues"
   },
